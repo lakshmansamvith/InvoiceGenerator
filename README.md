@@ -29,16 +29,3 @@ To contribute to this project, follow these steps:
 6. Push your changes to your forked repository.
 7. Open a pull request to the main repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as permitted by the license.
-
-## Disclaimer
-
-Please note that this Invoice App is currently a work in progress. It may contain bugs, incomplete features, or other issues. Use it at your own risk.
-
-## Contact
-
-If you have any questions, feedback, or inquiries regarding this project, please contact [your contact information].
-
-Thank you for your interest in the Invoice App. We appreciate your patience as we continue to work on implementing the remaining functionality and dark mode. Stay tuned for future updates!
